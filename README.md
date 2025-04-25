@@ -9,6 +9,7 @@ A collection of beginner-friendly Python projects with clear code examples and s
 | Project | Description |
 |--------|-------------|
 | [Odd or Even](https://github.com/TweakCodeYT/python-beginner-projects/tree/main/odd-or-even) | A simple script to check if a number is odd or even. Great for practicing `input()`, `%` operator, and `if` statements. |
+| [Rock Paper Scissors](rock-paper-scissors-gui) | A GUI game where you play Rock, Paper, Scissors against the computer. Great for learning `Tkinter`, randomness and basic game logic. |
 
 ---
 
